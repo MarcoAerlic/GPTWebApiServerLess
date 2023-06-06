@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7Mu+D/84XnkGKbPApmx3XW7EctTZ1Nu7oIJJtygLSpI=",
+  "Source": "GPTWebApiServerLess",
+  "BasePath": "_content/GPTWebApiServerLess",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

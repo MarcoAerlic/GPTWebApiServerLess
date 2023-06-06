@@ -1,0 +1,15 @@
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\bin\Debug\net6.0\GPTWebApiServerLess.ApplicationService.deps.json
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\bin\Debug\net6.0\GPTWebApiServerLess.ApplicationService.dll
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\bin\Debug\net6.0\GPTWebApiServerLess.ApplicationService.pdb
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\bin\Debug\net6.0\Core.Model.dll
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\bin\Debug\net6.0\Core.Model.pdb
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\obj\Debug\net6.0\GPTWebApiServerLess.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\obj\Debug\net6.0\GPTWebApiServerLess.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\obj\Debug\net6.0\GPTWebApiServerLess.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\obj\Debug\net6.0\GPTWebApiServerLess.ApplicationService.AssemblyInfo.cs
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\obj\Debug\net6.0\GPTWebApiServerLess.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\obj\Debug\net6.0\GPTWebApiServerLess.ApplicationService.csproj.CopyComplete
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\obj\Debug\net6.0\GPTWebApiServerLess.ApplicationService.dll
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\obj\Debug\net6.0\refint\GPTWebApiServerLess.ApplicationService.dll
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\obj\Debug\net6.0\GPTWebApiServerLess.ApplicationService.pdb
+C:\Users\MarcoAerlic\source\repos\GPTWebApiServerLess\GPTWebApiServerLess.ApplicationService\obj\Debug\net6.0\ref\GPTWebApiServerLess.ApplicationService.dll
