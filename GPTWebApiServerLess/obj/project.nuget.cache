@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c2AcoLPvKna0CMt3zIxVdp1FrP4zO+98IgpW3iddVUt+dGwBxcmij1SwJSDpixRdmQVGUDZYxmWXIZMCsw4x6g==",
+  "dgSpecHash": "sgvPGN8P5qKpKIfaWiUcydVzFLju8U0BB72jVGUsrY9z08TrJ/qcxZ0cT4rDYb/U1OITFhHmGdLQFWGIRZW7fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess\\GPTWebApiServerLess.csproj",
+  "projectFilePath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_ServerLessCheck\\GPTWebApiServerLess\\GPTWebApiServerLess\\GPTWebApiServerLess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarcoAerlic\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.6.0\\amazon.lambda.apigatewayevents.2.6.0.nupkg.sha512",
     "C:\\Users\\MarcoAerlic\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.1.0\\amazon.lambda.applicationloadbalancerevents.2.1.0.nupkg.sha512",
