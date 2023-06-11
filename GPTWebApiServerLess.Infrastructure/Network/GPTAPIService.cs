@@ -51,9 +51,9 @@ namespace GPTWebApiServerLess.Infrastructure.Network
             return rq;
         }
 
-        public async Task<List<string>> GenerateContentGptTurboAPI(List<GPTMessage> generateRequestModel)
+        public async Task<List<string>> GenerateContentGptTurboAPI(GPTChatInput generateRequestModel)
         {
-            var apiKey = "";
+            var apiKey = "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";
             var apiModel = "gpt-3.5-turbo";
             List<string> rq = new List<string>();
             string rs = "";
@@ -63,7 +63,7 @@ namespace GPTWebApiServerLess.Infrastructure.Network
             //because of this our input, and the way we query the model changes.
             List<ChatMessage> messages = new List<ChatMessage>();
 
-            foreach (var gptm in generateRequestModel)
+            foreach (var gptm in generateRequestModel.GptMessages)
             {
                 messages.Add(new ChatMessage(InternalConsistencyCheck(gptm.Role), gptm.Content));
             }
@@ -72,9 +72,9 @@ namespace GPTWebApiServerLess.Infrastructure.Network
             {
                 Messages = messages,
                 Model = apiModel,
-                Temperature = 0.5,
-                MaxTokens = 500,
-                TopP = 1.0,
+                Temperature = generateRequestModel.ModelParameters.Temperature,
+                MaxTokens = generateRequestModel.ModelParameters.MaxTokens,
+                TopP = generateRequestModel.ModelParameters.TopP,
                 FrequencyPenalty = 0.0,
                 PresencePenalty = 0.0,
 
@@ -91,7 +91,7 @@ namespace GPTWebApiServerLess.Infrastructure.Network
             return rq;
         }
 
-        public async Task<List<string>> GenerateContentGpt4API(List<GPTMessage> generateRequestModel)
+        public async Task<List<string>> GenerateContentGpt4API(GPTChatInput generateRequestModel)
         {
             var apiKey = "";
             var apiModel = "gpt-4";
@@ -104,7 +104,7 @@ namespace GPTWebApiServerLess.Infrastructure.Network
             //because of this our input, and the way we query the model changes.
             List<ChatMessage> messages = new List<ChatMessage>();
 
-            foreach (var gptm in generateRequestModel)
+            foreach (var gptm in generateRequestModel.GptMessages)
             {
                 messages.Add(new ChatMessage(InternalConsistencyCheck(gptm.Role), gptm.Content));
             }
@@ -113,9 +113,9 @@ namespace GPTWebApiServerLess.Infrastructure.Network
             {
                 Messages = messages,
                 Model = apiModel,
-                Temperature = 0.5,
-                MaxTokens = 500,
-                TopP = 1.0,
+                Temperature = generateRequestModel.ModelParameters.Temperature,
+                MaxTokens = generateRequestModel.ModelParameters.MaxTokens,
+                TopP = generateRequestModel.ModelParameters.TopP,
                 FrequencyPenalty = 0.0,
                 PresencePenalty = 0.0,
 

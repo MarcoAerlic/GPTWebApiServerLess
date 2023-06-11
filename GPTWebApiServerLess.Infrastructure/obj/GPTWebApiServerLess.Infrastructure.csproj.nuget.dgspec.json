@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\GPTWebApiServerLess.Infrastructure\\GPTWebApiServerLess.Infrastructure.csproj": {}
+    "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess.Infrastructure\\GPTWebApiServerLess.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj": {
+    "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj",
+        "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj",
         "projectName": "Core.Model",
-        "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj",
+        "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj",
         "packagesPath": "C:\\Users\\MarcoAerlic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\Core.Model\\obj\\",
+        "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\Core.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\GPTWebApiServerLess.ApplicationService.csproj": {
+    "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\GPTWebApiServerLess.ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\GPTWebApiServerLess.ApplicationService.csproj",
+        "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\GPTWebApiServerLess.ApplicationService.csproj",
         "projectName": "GPTWebApiServerLess.ApplicationService",
-        "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\GPTWebApiServerLess.ApplicationService.csproj",
+        "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\GPTWebApiServerLess.ApplicationService.csproj",
         "packagesPath": "C:\\Users\\MarcoAerlic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\obj\\",
+        "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,8 +103,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj": {
-                "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj"
+              "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj": {
+                "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\GPTWebApiServerLess.Infrastructure\\GPTWebApiServerLess.Infrastructure.csproj": {
+    "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess.Infrastructure\\GPTWebApiServerLess.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\GPTWebApiServerLess.Infrastructure\\GPTWebApiServerLess.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess.Infrastructure\\GPTWebApiServerLess.Infrastructure.csproj",
         "projectName": "GPTWebApiServerLess.Infrastructure",
-        "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\GPTWebApiServerLess.Infrastructure\\GPTWebApiServerLess.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess.Infrastructure\\GPTWebApiServerLess.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\MarcoAerlic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\GPTWebApiServerLess.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -173,11 +173,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj": {
-                "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj"
+              "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj": {
+                "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj"
               },
-              "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\GPTWebApiServerLess.ApplicationService.csproj": {
-                "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\GPTWebApiServerLess.ApplicationService.csproj"
+              "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\GPTWebApiServerLess.ApplicationService.csproj": {
+                "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\GPTWebApiServerLess.ApplicationService.csproj"
               }
             }
           }

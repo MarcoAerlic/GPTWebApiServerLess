@@ -15,7 +15,7 @@ namespace GPTWebApiServerLess.Controllers
         }
 
         [HttpPost("ExtractDataGptTurbo")]
-        public async Task<ActionResult<GPTProductResponseModel>> GenerateContentGptTurbo([FromBody] List<GPTMessage> aDGenerateRequestModel)
+        public async Task<ActionResult<GPTProductResponseModel>> GenerateContentGptTurbo([FromBody] GPTChatInput aDGenerateRequestModel)
         {
             try
             {
@@ -33,7 +33,7 @@ namespace GPTWebApiServerLess.Controllers
         }
 
         [HttpPost("ExtractDataGpt4")]
-        public async Task<ActionResult<GPTProductResponseModel>> GenerateContentGpt4([FromBody] List<GPTMessage> aDGenerateRequestModel)
+        public async Task<ActionResult<GPTProductResponseModel>> GenerateContentGpt4([FromBody] GPTChatInput aDGenerateRequestModel)
         {
             try
             {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5W3k4pb+Y1BWDxgETM5X5ofjmqkgkk/Plu+ocnKcFKyHHVVmwaRtpHf9WnTvgi8C0F3w+AseLezO0uR87RrlFA==",
+  "dgSpecHash": "L6as/4X34+Z20b2NQxtVkT5Qte6pFOjfJHc74KaEpG82cKYNj3geZEdjyp8BrQfqD/ntICYT6JrdTaP44yD6yA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\GPTWebApiServerLess.ApplicationService.csproj",
+  "projectFilePath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\GPTWebApiServerLess.ApplicationService\\GPTWebApiServerLess.ApplicationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarcoAerlic\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\MarcoAerlic\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",

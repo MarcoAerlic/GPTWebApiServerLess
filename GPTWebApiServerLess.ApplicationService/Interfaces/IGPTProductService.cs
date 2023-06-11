@@ -11,7 +11,7 @@ namespace GPTWebApiServerLess.ApplicationService.Interfaces
     public interface IGPTProductService
     {
         Task<GPTProductResponseModel> GenerateContentDaVinci(CustomerRequestModel gptGenerateRequestModel);
-        Task<GPTProductResponseModel> GenerateContentGptTurbo(List<GPTMessage> gptGenerateRequestModel);
-        Task<GPTProductResponseModel> GenerateContentGpt4(List<GPTMessage> gptGenerateRequestModel);
+        Task<GPTProductResponseModel> GenerateContentGptTurbo(GPTChatInput gptGenerateRequestModel);
+        Task<GPTProductResponseModel> GenerateContentGpt4(GPTChatInput gptGenerateRequestModel);
     }
 }

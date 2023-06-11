@@ -50,9 +50,9 @@ namespace GPTWebApiServerLess.ApplicationService.GPTProduct
             };
         }
 
-        public async Task<GPTProductResponseModel> GenerateContentGptTurbo(List<GPTMessage> gptGenerateRequestModel)
+        public async Task<GPTProductResponseModel> GenerateContentGptTurbo(GPTChatInput gptGenerateRequestModel)
         {
-            if (!(gptGenerateRequestModel != null && gptGenerateRequestModel.Any()))
+            if (!(gptGenerateRequestModel != null))
             {
                 return new GPTProductResponseModel
                 {
@@ -79,9 +79,9 @@ namespace GPTWebApiServerLess.ApplicationService.GPTProduct
             };
         }
 
-        public async Task<GPTProductResponseModel> GenerateContentGpt4(List<GPTMessage> gptGenerateRequestModel)
+        public async Task<GPTProductResponseModel> GenerateContentGpt4(GPTChatInput gptGenerateRequestModel)
         {
-            if (!(gptGenerateRequestModel != null && gptGenerateRequestModel.Any()))
+            if (!(gptGenerateRequestModel != null))
             {
                 return new GPTProductResponseModel
                 {

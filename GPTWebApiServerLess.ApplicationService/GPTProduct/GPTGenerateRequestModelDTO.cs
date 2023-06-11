@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Core.Model.CoreEntity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,5 +10,6 @@ namespace GPTWebApiServerLess.ApplicationService.GPTProduct
     public class GPTGenerateRequestModelDTO
     {
         public string prompt { get; set; }
+        public ModelParameters ModelParameters { get; set; }
     }
 }

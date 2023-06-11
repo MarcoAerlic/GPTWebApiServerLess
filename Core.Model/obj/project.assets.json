@@ -481,11 +481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj",
+      "projectUniqueName": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj",
       "projectName": "Core.Model",
-      "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj",
+      "projectPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\Core.Model\\Core.Model.csproj",
       "packagesPath": "C:\\Users\\MarcoAerlic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPTWebApiServerLess\\Core.Model\\obj\\",
+      "outputPath": "C:\\Users\\MarcoAerlic\\source\\repos\\GPT_SERVERLESS_11_06_2023\\GPTWebApiServerLess\\Core.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
